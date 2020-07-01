@@ -1,3 +1,6 @@
 {
-    "mongoURI" : "mongodb+srv://amit123:123@devbond-lrfeu.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI" : "mongodb+srv://amit123:123@devbond-lrfeu.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken",
+    "githubclientId": "0bc2dcf3ce85359dae48",
+    "githubSecret":"c285d604f2a50091c5fd60635513eac8e47455db"
 }
